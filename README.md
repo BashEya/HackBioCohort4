@@ -1,2 +1,2 @@
 # HackBioCohort4
-HackBio: Programming for Life Sciences
+## HackBio: Programming for Life Sciences
